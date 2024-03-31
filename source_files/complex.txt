@@ -1,0 +1,7 @@
+let v = 10
+let a = 5
+let b = 3
+a = a + b
+b -= 1
+b = a & b
+v = a ^ b
